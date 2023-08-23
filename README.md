@@ -6,7 +6,6 @@ I'm a Software Engineer, Co-Founder of DevHack, Graphic Designer, UI/UX Designer
 
 ## Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-FF4088?style=flat-square)
 ![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-1F8BFF?style=flat-square)
