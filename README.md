@@ -18,15 +18,21 @@ I'm a Software Engineer, Co-Founder of DevHack, Graphic Designer, UI/UX Designer
 ## GitHub Stats
 My name is M. Muhammad Maqool. As a software engineer and co-founder of DevHack, I have spent several years honing my skills in various areas, including graphic design, video editing , photograju , dart , C++, UI/UX design. I am proud of my past experiences as a graphic designer at Google DSC, where I developed a deep understanding of design principles and user-centered design. This experience has given me a unique perspective on the importance of design in software development and has helped me create visually appealing and intuitive products. Throughout my career, I am always interested in new opportunities to work with innovative companies and individuals who share my passion for software development and design. Please feel free to reach out to me if you are interested in learning more about my work or discussing potential collaborations. 
 
-##Other Skills
-Microsoft Office Expertise
-Event Organizer 
-Video Editing 
-Professional Photographer 
-Marketing and Advertising 
-Speaker /Host 
-Scout
-lead Generation 
+## Skills
+
+Diverse skills beyond coding that add value to my profile:
+
+- Microsoft Office Expertise
+- Event Organizer
+- Graphic Designing
+- Video Editing
+- Professional Photographer
+- Marketing and Advertising
+- Speaker / Host
+- Scout
+- Lead Generation
+These skills complement my technical abilities and contribute to a well-rounded approach in various domains.
+
 
 
 
