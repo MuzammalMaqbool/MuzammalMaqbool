@@ -2,7 +2,7 @@
 
 # Hi, I'm M Muzammal Maqbool 👋
 
-I'm a Software Engineer, Co-Founder of DevHack, Graphic Designer, UI/UX Designer, App Developer, and Flutter Developer with experience in C#, .NET, and xGraphic Designing. Currently, I am working as a Graphic Designer at Google DSC.
+I'm a Software Engineer, Flutter Mobile App Developer, UI/UX Designer, Co-Founder of DevHack, and Graphic Designer, with experience in C#, .NET, and xGraphic Designing. Currently, I am working with a tech institute as a Senior Flutter Developer at Freelance Bahawalpur.
 
 ## Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -16,13 +16,23 @@ I'm a Software Engineer, Co-Founder of DevHack, Graphic Designer, UI/UX Designer
 - Active contributor on [GitHub](https://github.com/MuzammalMaqbool)
 
 ## GitHub Stats
-My name is M. Muhammad Maqool. As a software engineer and co-founder of DevHack, I have spent several years honing my skills in various areas, including graphic design, video editing , photograju , dart , C++, UI/UX design. I am proud of my past experiences as a graphic designer at Google DSC, where I developed a deep understanding of design principles and user-centered design. This experience has given me a unique perspective on the importance of design in software development and has helped me create visually appealing and intuitive products. Throughout my career, I am always interested in new opportunities to work with innovative companies and individuals who share my passion for software development and design. Please feel free to reach out to me if you are interested in learning more about my work or discussing potential collaborations. 
+My name is M. Muhammad Maqool. As a software engineer and co-founder of DevHack, I have spent several years honing my skills in various areas, including graphic design, figma ,  video editing, photograph, dart, C++, and UI/UX design. I am proud of my past experiences as a graphic designer at Google DSC, where I developed a deep understanding of design principles and user-centered design. This experience has given me a unique perspective on the importance of design in software development and has helped me create visually appealing and intuitive products. Throughout my career, I am always interested in new opportunities to work with innovative companies and individuals who share my passion for software development and design. Please feel free to reach out to me if you are interested in learning more about my work or discussing potential collaborations. 
 
 ## Skills
 
 Diverse skills beyond coding that add value to my profile:
 
-- Microsoft Office Expertise
+-  Flutter Mobile App Developer
+-  Dart
+-  Firebase
+-  Figma
+-  Flow
+-  Appwrite
+-  GetX
+-  C#
+-  C++
+-  Java
+-  Microsoft Office Expertise 
 - Event Organizer
 - Graphic Designing
 - Video Editing
@@ -30,7 +40,7 @@ Diverse skills beyond coding that add value to my profile:
 - Marketing and Advertising
 - Speaker / Host
 - Scout
-- Lead Generation
+
 These skills complement my technical abilities and contribute to a well-rounded approach in various domains.
 
 
