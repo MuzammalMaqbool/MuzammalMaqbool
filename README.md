@@ -16,7 +16,8 @@ I'm a Software Engineer, Flutter Mobile App Developer, UI/UX Designer, Co-Founde
 - Active contributor on [GitHub](https://github.com/MuzammalMaqbool)
 
 ## GitHub Stats
-My name is M. Muhammad Maqool. As a software engineer, I have spent several years honing my skills in various areas, including Flutter Mobile Apps Development, Dart, C++, Java ,  graphic design, figma, video editing, photograph, UI/UX design. I am proud of my past experiences as a graphic designer at Google DSC, where I developed a deep understanding of design principles and user-centered design. This experience has given me a unique perspective on the importance of design in software development and has helped me create visually appealing and intuitive products. Throughout my career, I am always interested in new opportunities to work with innovative companies and individuals who share my passion for software development and design. Please feel free to reach out to me if you are interested in learning more about my work or discussing potential collaborations. 
+I'm a Software Engineer, and Flutter Mobile App Developer. I have spent several years honing my skills in various areas, including Flutter Mobile Apps Development, Dart, C++, Java, C#, .Net graphic design, figma, video editing, photography, and UI/UX design. I am proud of my past experiences as a Flutter Developer. Currently, I am working with a tech institute as a Flutter Developer at Freelance Bahawalpur.  where I developed a deep understanding of design principles and user-centered design. This experience has given me a unique perspective on the importance of Flutter app development in software development and has helped me create visually appealing and intuitive products. Throughout my career, I am always interested in new opportunities to work with innovative companies and individuals who share my passion for software development and design. Please feel free to reach out to me if you are interested in learning more about my work or discussing potential collaborations.
+
 
 ## Skills
 
@@ -42,8 +43,6 @@ Diverse skills beyond coding that add value to my profile:
 - Scout
 
 These skills complement my technical abilities and contribute to a well-rounded approach in various domains.
-
-
 
 
 [![M Muzammal Maqbool's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuzammalMaqbool&count_private=true&show_icons=true&theme=radical)](https://github.com/MuzammalMaqbool/github-readme-stats)
