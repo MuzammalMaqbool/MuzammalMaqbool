@@ -41,6 +41,5 @@ These skills complement my technical abilities and contribute to a well-rounded 
 ## Contact Me
 - 📫 How to reach me: [mzmlcreations@gmail.com](mailto:mzmlcreations@gmail.com)
 - 💬 Ask me about anything, I am happy to help.
-- 💬 Ask me about anything, I am happy to help.
 
 ### Thank You for visiting my profile! ❤️
